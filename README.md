@@ -1,12 +1,11 @@
-<h1>Hi, I'm Amado Alifonso
 
-<h2>👨‍💻 cypersecurity projects:
+<h1>Hi, I'm Amado Alifonso</h1>
 
-- active directory home lab
+<h2>👨‍💻 Engaging in Cybersecurity Projects:</h2>
+
+<p> I am dedicated to earning my CompTIA Security+ certification, which is a crucial stepping stone in my career.</p>
+<p> I am actively expanding my knowledge in Security+, A+, and Networking to build a solid foundation in I.T.</p>
+<p> I'm reaching out for guidance and support! I'm genuinely passionate about entering the I.T. field, and any help you can offer would be invaluable.</p>
+<p> Pronouns: he/him</p>
 
 
-
-- 🔭 I’m currently working on getting my comptia securtity + certifcate
-- 🌱 I’m currently learning securtiy+,A+,networking+
-- 🤔 I’m looking for help with everything and anything haha seriously speaking im really interested get into I.T and any help would be appreciated
-- 😄 Pronouns: him/he 
