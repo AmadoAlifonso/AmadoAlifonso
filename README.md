@@ -1,11 +1,23 @@
+<h1>Hey, I'm Amado Alifonso! <br/><a href="https://github.com/AmadoAlifonso">Physical Security Specialist</a>, IT Enthusiast</h1>
 
-<h1>Hi, I'm Amado Alifonso</h1>
-Physical Security Specialist, IT enthusiast
+<h2>IT Projects:</h2>
 
--IT Projects-
-
-
-
+- <b>Active Directory</b>
+  - [Automated PowerShell Active Directory Account Creation](https://github.com/OscarMorales-1910/Automated_AD_Add_With_PowerShell)
 
 
 
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
