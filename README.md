@@ -4,6 +4,7 @@
 
 - <b>Active Directory</b>
   - [Automated PowerShell Active Directory Account Creation](https://github.com/AmadoAlifonso/Automated_AD_Add_With_PowerShell)
+  - [Active Directory Setup](https://github.com/AmadoAlifonso/Active-Directory-Setup)
 
 
 
