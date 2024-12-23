@@ -6,7 +6,7 @@
   - [Automated PowerShell Active Directory Account Creation](https://github.com/AmadoAlifonso/Automated_AD_Add_With_PowerShell)
   - [Active Directory Setup](https://github.com/AmadoAlifonso/Active-Directory-Setup)
 - <b>Linux</b>
-  -[Bash Script to Create Users in Linux](https://github.com/AmadoAlifonso/Create_User_In_Bash) 
+  - [Bash Script to Create Users in Linux](https://github.com/AmadoAlifonso/Create_User_In_Bash) 
 
 
 <!--
